@@ -1,8 +1,5 @@
-import os
-from bs4 import BeautifulSoup
-import requests
-import time
-import sqlite3
-import matplotlib.pyplot as plt
-import seaborn as sns
+from gettext import install
 
+
+pip install pandas, requests  
+pip install r--requirements.t
